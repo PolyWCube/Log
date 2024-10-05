@@ -1,6 +1,6 @@
 #pragma once
 
-#ifdef PLATFORM_WINDOWS
+#ifdef CUSTOM_PLATFORM_WINDOWS
 	#define DAY "%d"
 	#define MONTH "%m"
 	#define YEAR "%y"
